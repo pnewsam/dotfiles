@@ -1,2 +1,5 @@
 # Go binary
 /dotsync
+
+# Local Claude settings (not committed)
+.claude/settings.local.json
