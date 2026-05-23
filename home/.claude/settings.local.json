@@ -50,7 +50,6 @@
       "Bash(git checkout *)",
       "Bash(git switch *)",
       "Bash(git merge *)",
-      "Bash(git rebase *)",
       "Bash(git stash *)",
       "Bash(git log *)",
       "Bash(git show *)",
@@ -62,6 +61,18 @@
       "Bash(mkdir *)",
       "Bash(cp *)",
       "Bash(mv *)"
+    ],
+    "ask": [
+      "Bash(git rebase *)",
+      "Bash(git reset *)",
+      "Bash(git branch -D *)",
+      "Bash(docker *)",
+      "Bash(brew uninstall *)",
+      "Bash(brew remove *)",
+      "Bash(kill *)",
+      "Bash(killall *)",
+      "Bash(chmod *)",
+      "Bash(chown *)"
     ],
     "deny": [
       "Read(**/.env*)",
