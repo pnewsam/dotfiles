@@ -81,6 +81,7 @@
       "Bash(git reset --hard *)",
       "Bash(git clean *)",
       "Bash(rm -rf *)",
+      "Bash(sudo:*)",
       "Bash(npm publish *)",
       "Bash(bun publish *)",
       "Bash(uv publish *)"
