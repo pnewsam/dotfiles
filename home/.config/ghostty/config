@@ -1,0 +1,7 @@
+font-size = 16
+working-directory = home
+keybind = cmd+shift+left=goto_split:left
+keybind = cmd+shift+right=goto_split:right
+keybind = cmd+shift+up=goto_split:top
+keybind = cmd+shift+down=goto_split:bottom
+keybind = shift+enter=text:\n
